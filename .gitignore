@@ -1,0 +1,15 @@
+# Ignore all generated Excel results and Stata files
+*.xlsx
+*.xls
+*.dta
+*.rtf
+
+# Except the original data files
+!data.xlsx
+!python/data.xlsx
+
+# Ignore Stata folder and checkpoints
+Stata/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
