@@ -103,8 +103,8 @@ pip install pandas numpy scipy scikit-learn factor_analyzer pingouin openpyxl st
 
 1. **Clone หรือดาวน์โหลด Repository:**
    ```bash
-   git clone https://github.com/jutamaswon/Python2026.git
-   cd Python2026
+   git clone https://github.com/jutamaswon/FactorAnalysis-Stata-Pipeline.git
+   cd FactorAnalysis-Stata-Pipeline
    ```
 2. **เปิดไฟล์ Jupyter Notebook:**
    - เปิดโฟลเดอร์โปรเจกต์ด้วย VS Code หรือ Jupyter Lab
